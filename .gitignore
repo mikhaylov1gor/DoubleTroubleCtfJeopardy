@@ -19,4 +19,4 @@ docker-compose.override.yml
 *.sqlite3
 
 # CTF-специфичные файлы
-flag.txt  # Исключаем реальный флаг из репозитория
+flag.txt
