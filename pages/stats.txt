@@ -1,0 +1,8 @@
+=== Statistics ===
+Active users: 2
+Failed logins today: 127
+Security events:
+- 05:14:33 [BLOCKED] XSS attempt from 193.23.45.12
+- 05:18:02 [ALERT] Bruteforce attack detected
+
+[NOTICE] All flags are stored in /app/flag.txt
