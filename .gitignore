@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Docker
+*.swp
+.env
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+
+# Логи и системные файлы
+*.log
+*.sqlite3
+
+# CTF-специфичные файлы
+flag.txt  # Исключаем реальный флаг из репозитория
